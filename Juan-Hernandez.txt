@@ -1,4 +1,4 @@
-
+https://codepen.io/Juanch/pen/yLNYLZo?editors=1100
     1. What is Semantic HTML? 
     A: Semantic HTML markup, is the use of HTML tags to tell the broswers something about the contents of the elments of the page. It separates and gives structure to the page. 
     2. What is HTML used for? 
